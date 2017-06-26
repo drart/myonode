@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"MyoNodeBluetooth": "https://github.com/ManuelOverdijk/MyoNodeBluetooth.git",
+		"xpc-connection": "^0.1.4"
+	}
+}
